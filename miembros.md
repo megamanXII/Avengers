@@ -1,5 +1,6 @@
 # Miembros
 
+* Quicksilver
 * Black panther
 * Black Widow
 * Capitán America
